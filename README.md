@@ -71,7 +71,7 @@ git clone https://github.com/Infi-null-0/Bank-Management-System.git
 
     2. **Update Connection Details:**
 
-        - Open the Java code for the database connection (e.g., `DatabaseManager.java`).
+        - Open the Java code for the database connection (e.g., `BankingApp.java`).
         - Update the database connection details (username, password, etc.) if needed.
 
     Now, your MySQL database is set up with the required tables and initial data, making the setup process more convenient. 🚀
