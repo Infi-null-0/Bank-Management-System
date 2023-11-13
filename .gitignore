@@ -1,0 +1,11 @@
+#intellij
+.idea
+
+#out
+out
+
+#vscode
+.vscode
+
+#libs
+lib
